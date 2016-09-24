@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Sep 24 19:44:20 EEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0157-5d15-4e11-000005013c98 
+on database directory /home/templars1914/workspace/EasyLearnBk/zadb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/home/templars1914/workspace/EasyLearnBk/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=/home/templars1914/workspace/EasyLearnBk
+os.name=Linux
+os.arch=amd64
+os.version=4.2.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
